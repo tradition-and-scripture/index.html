@@ -31,3 +31,4 @@
   <footer>© 2025 Симеон Александров</footer>
 </body>
 </html>
+<a href="icons.html">Икони</a>
